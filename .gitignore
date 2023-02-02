@@ -1,0 +1,5 @@
+.libs/
+mod_qkem.o
+mod_qkem.lo
+mod_qkem.slo
+mod_qkem.la
